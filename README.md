@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wayan Chandra</h1>
-<h3 align="center">Android Developer & UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwayanardikachandra&label=Profile%20views&color=0e75b6&style=flat" alt="iwayanardikachandra" /> </p>
 

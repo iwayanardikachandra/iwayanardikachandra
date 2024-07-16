@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/i wayan ardika chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i wayan ardika chandra" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/i wayan ardika chandra](https://www.linkedin.com/in/i-wayan-ardika-chandra-45b24b222/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i wayan ardika chandra" height="30" width="40" /></a>
 <a href="https://instagram.com/wayanchandraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wayanchandraa" height="30" width="40" /></a>
 </p>
 
